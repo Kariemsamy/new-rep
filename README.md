@@ -1,3 +1,3 @@
 # new-rep
 just new
-edit iyt
+edit it
